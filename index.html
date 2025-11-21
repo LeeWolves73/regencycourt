@@ -1,14 +1,73 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Regency Court</title>
-<link rel="stylesheet" href="style.css">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Regency Court — Block Buddy</title>
+<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<img src="header.png" class="header">
-<h1>Regency Court</h1>
-<div id="app"></div>
+<main class="wrap">
+  <header class="hdr" role="banner">
+    <img src="header_orange.png" alt="Contact icons header" class="header-img">
+  </header>
+
+  <section class="hero" aria-labelledby="blockTitle">
+    <div class="left">
+      <h1 id="blockTitle">Block 1, Regency Court</h1>
+      <p class="subtitle">Scan the QR code or use the controls below</p>
+    </div>
+    <div class="right">
+      <img src="qr_production.png" alt="QR code" class="qr">
+    </div>
+  </section>
+
+  <section class="controls" aria-label="Contact controls">
+    <div class="control-card">
+      <button id="viewRulesBtn" class="action" aria-expanded="false">View Site Rules ▾</button>
+      <div id="rulesPanel" class="panel" hidden>
+<pre id="rulesText">REGENCY COURT SITE RULES
+
+THE FOLLOWING ACTIVITIES ARE STRICTLY PROHIBITED AT REGENCY COURT
+
+1. Ball games, riding of bicycles/ scooters/ skateboards or other similar human propelled vehicle is not permitted within the grounds of Regency Court or any communal area of any Regency Court building.
+2. Personal items which are left in the communal areas (internally and externally) will be cleared without further notice, and the cost of clearing these items will be charged back to the individual responsible for leaving the items.
+3. Congregating of children, young people or adults is not permitted in any part of Regency Court (individual apartments excluded). Parts of Regency Court include all communal areas, staircases, car parks, garden areas, perimeter walls, outbuildings, bin stores and entrances.
+4. Sitting on any walls, fences, trees, lawned areas, bushes, flower beds, doorsteps and steps is not permitted.
+5. Rowdy, unruly, abusive, aggressive, threatening, anti-social, disrespectful or other noisy behaviour by children, young people or adults will not be tolerated.
+6. Vandalism, graffiti, fly posting or tipping and litter dropping will not be tolerated.
+7. Alcohol consumption or the use of drugs in all public areas around the site or communal areas of Regency Court is strictly not permitted.
+8. Washing must not be hung in balconies or hung out of windows or any other area where it is visible to any other residents of Regency Court.
+9. Residents should respect their neighbours right to a peaceful existence and conduct themselves in a manner that will promote harmonious relationships.
+10. The Leaseholder shall be responsible for any damage done to communal areas by the tenants of individual flats.
+11. Vehicle repairs and maintenance including the washing of vehicles on site is not permitted.
+12. Failure to comply with these rules will result in the resident’s eviction from Regency Court. Any person being evicted from site will never be allowed to return here.
+13. Misuse of the refuse bins. Bins should not be contaminated with waste that is not permitted within the respective bin. If you are unsure what can and cannot go in a general waste bin or a recycling bin then please ask site staff who will be happy to assist.
+14. Bulky Waste and collection of Bulky Waste – ALL residents to ensure they comply with the Bulky Waste Protocol, and do not just leave bulky waste items/furniture outside. If you are unsure about the Bulky Waste protocol please ask site staff who will assist.
+15. ALL communal doors to remain closed at ALL times and not left open or held open by any resident, no matter what the reason.
+16. Flower beds are NOT to be used as storage areas by residents.
+17. If any Bicycle, pram or pushchair is carried upstairs and causes damage to the internal wall finishes then the Management Company retain the right to re-charge any resident for the cost of rectifying any damage to internal wall/floor surfaces.
+18. NO pets allowed at all within apartments.
+19. NO feeding of cats, dogs or other wild animals.</pre>
+      </div>
+    </div>
+
+    <div class="control-card">
+      <button id="reportBtn" class="action">Report an issue to the Block Management Company ▾</button>
+      <p class="small">Opens your device's email app to <strong>info@block-buddy.co.uk</strong></p>
+    </div>
+
+    <div class="control-card">
+      <button id="complaintBtn" class="action">Make a Complaint ▾</button>
+      <p class="small">Opens your device's email app to <strong>info@block-buddy.co.uk</strong> with the subject prefilled</p>
+    </div>
+
+    <p class="note">This page supports Google Translate for on-device translation. For legal certainty, consider adding human-verified translations.</p>
+  </section>
+
+  <footer class="footer">&copy; Block Buddy Ltd — Block 1, Regency Court</footer>
+</main>
+
 <script src="scripts.js"></script>
 </body>
 </html>
