@@ -1,0 +1,130 @@
+{
+  "en": {
+    "name": "English",
+    "select_language": "Select language",
+    "view_rules": "View Site Rules",
+    "report_issue": "Report an issue to the Block Management Company",
+    "make_complaint": "Make a Complaint",
+    "complaint_subject": "Complaint - Regency Court"
+  },
+  "es": {
+    "name": "Español",
+    "select_language": "Seleccionar idioma",
+    "view_rules": "Ver reglas del sitio",
+    "report_issue": "Informar un problema a la empresa de gestión",
+    "make_complaint": "Presentar una queja",
+    "complaint_subject": "Queja - Regency Court"
+  },
+  "fr": {
+    "name": "Français",
+    "select_language": "Sélectionner la langue",
+    "view_rules": "Voir le règlement du site",
+    "report_issue": "Signaler un problème à la gestion",
+    "make_complaint": "Faire une réclamation",
+    "complaint_subject": "Plainte - Regency Court"
+  },
+  "de": {
+    "name": "Deutsch",
+    "select_language": "Sprache wählen",
+    "view_rules": "Hausregeln anzeigen",
+    "report_issue": "Ein Problem melden",
+    "make_complaint": "Beschwerde einreichen",
+    "complaint_subject": "Beschwerde - Regency Court"
+  },
+  "bn": {
+    "name": "বাংলা",
+    "select_language": "ভাষা নির্বাচন",
+    "view_rules": "সাইটের নিয়ম দেখুন",
+    "report_issue": "ব্লক ব্যবস্থাপনাকে সমস্যা রিপোর্ট করুন",
+    "make_complaint": "অভিযোগ করুন",
+    "complaint_subject": "অভিযোগ - Regency Court"
+  },
+  "bg": {
+    "name": "Български",
+    "select_language": "Изберете език",
+    "view_rules": "Вижте правилата на обекта",
+    "report_issue": "Докладвайте проблем",
+    "make_complaint": "Направете жалба",
+    "complaint_subject": "Жалба - Regency Court"
+  },
+  "cs": {
+    "name": "Česky",
+    "select_language": "Vyberte jazyk",
+    "view_rules": "Zobrazit pravidla areálu",
+    "report_issue": "Nahlásit problém",
+    "make_complaint": "Vznést stížnost",
+    "complaint_subject": "Stížnost - Regency Court"
+  },
+  "gu": {
+    "name": "ગુજરાતી",
+    "select_language": "ભાષા પસંદ કરો",
+    "view_rules": "સાઇટ નિયમ જુઓ",
+    "report_issue": "બ્લોક મેનેજમેન્ટ કંપનીને સમસ્યા રજૂ કરો",
+    "make_complaint": "ફરિયાદ કરો",
+    "complaint_subject": "ફરિયાદ - Regency Court"
+  },
+  "pl": {
+    "name": "Polski",
+    "select_language": "Wybierz język",
+    "view_rules": "Zobacz zasady obiektu",
+    "report_issue": "Zgłoś problem do zarządu",
+    "make_complaint": "Złożyć skargę",
+    "complaint_subject": "Skarga - Regency Court"
+  },
+  "pt": {
+    "name": "Português",
+    "select_language": "Selecionar idioma",
+    "view_rules": "Ver regras do local",
+    "report_issue": "Reportar um problema à administração",
+    "make_complaint": "Fazer uma reclamação",
+    "complaint_subject": "Reclamação - Regency Court"
+  },
+  "pa": {
+    "name": "ਪੰਜਾਬੀ",
+    "select_language": "ਭਾਸ਼ਾ ਚੁਣੋ",
+    "view_rules": "ਸਾਈਟ ਨਿਯਮ ਵੇਖੋ",
+    "report_issue": "ਬਲਾਕ ਪ੍ਰਬੰਧਨ ਕੰਪਨੀ ਨੂੰ ਮੁੱਦਾ ਦਰਜ ਕਰੋ",
+    "make_complaint": "ਆਰਜ਼ੀ ਦਰਜ ਕਰੋ",
+    "complaint_subject": "ਸ਼ਿਕਾਇਤ - Regency Court"
+  },
+  "ro": {
+    "name": "Română",
+    "select_language": "Selectați limba",
+    "view_rules": "Vizualizați regulile site-ului",
+    "report_issue": "Raportați o problemă companiei de administrare",
+    "make_complaint": "Depuneți o plângere",
+    "complaint_subject": "Plângere - Regency Court"
+  },
+  "so": {
+    "name": "Soomaali",
+    "select_language": "Xulo luqadda",
+    "view_rules": "Eeg xeerarka goobta",
+    "report_issue": "U soo sheeg arin shirkadda maamulka",
+    "make_complaint": "Gudbi cabasho",
+    "complaint_subject": "Cabasho - Regency Court"
+  },
+  "tr": {
+    "name": "Türkçe",
+    "select_language": "Dil seçin",
+    "view_rules": "Site Kurallarını Görüntüle",
+    "report_issue": "Blok Yönetim Şirketine sorun bildir",
+    "make_complaint": "Şikayet Et",
+    "complaint_subject": "Şikayet - Regency Court"
+  },
+  "ur": {
+    "name": "اردو",
+    "select_language": "زبان منتخب کریں",
+    "view_rules": "سائٹ کے قواعد دیکھیں",
+    "report_issue": "بلاک مینجمنٹ کمپنی کو مسئلہ رپورٹ کریں",
+    "make_complaint": "شکایت درج کریں",
+    "complaint_subject": "شکایت - Regency Court"
+  },
+  "uk": {
+    "name": "Українська",
+    "select_language": "Оберіть мову",
+    "view_rules": "Переглянути правила об'єкта",
+    "report_issue": "Повідомити про проблему керуючій компанії",
+    "make_complaint": "Залишити скаргу",
+    "complaint_subject": "Скарга - Regency Court"
+  }
+}
