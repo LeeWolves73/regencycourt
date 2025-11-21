@@ -1,0 +1,1 @@
+console.log('Regency Court site loaded');
